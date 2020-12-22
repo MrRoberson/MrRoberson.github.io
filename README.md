@@ -13,4 +13,4 @@ The main technologies used in creating this site were:
  - Markdown (to write this README file)
 
 ### Launch Site
-To visit the site, go to [mrroberson.github.io] (https://MrRoberson.github.io)
+To visit the site, go to [here](https://MrRoberson.github.io)
